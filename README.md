@@ -1,5 +1,5 @@
 
-## Autores
+## Autor
 
 - [GitHub: @Eliohanyp](https://github.com/Eliohanyp)
 - [LinkedIn: Eliohan Yamauti Poiati](https://www.linkedin.com/in/eliohanyp/)
